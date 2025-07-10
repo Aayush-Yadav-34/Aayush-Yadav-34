@@ -24,7 +24,7 @@ I'm a passionate developer, problem solver, and tech enthusiast. I love building
 
 ## 🛠️ Tech Stack
 
-![Languages](https://skillicons.dev/icons?i=python,js,ts,java,cpp,go,html,css,react,nodejs,express,mongodb,postgres,git,github,linux,docker&theme=light)
+![Languages](https://skillicons.dev/icons?i=python,c++,sql,js,html,css,nodejs,express,mongodb,github,linux,docker&theme=light)
 
 ---
 
