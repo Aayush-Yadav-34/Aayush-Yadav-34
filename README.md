@@ -50,7 +50,7 @@ I'm a passionate developer specializing in web development and data science. I l
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aayush-Yadav-34&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Yadav-34&layout=compact&theme=tokyonight&card_width=445"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Yadav-34&layout=compact&theme=tokyonight"/>
 </div>
 
 <div align="center">
