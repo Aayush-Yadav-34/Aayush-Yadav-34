@@ -67,6 +67,16 @@ I'm a passionate developer specializing in web development and data science. I l
 
 ## 🔥 Featured Projects
 
+### 🌟 [VisuDSA](https://github.com/Aayush-Yadav-34/VisuDSA) &nbsp;[![Live Demo](https://img.shields.io/badge/Live%20Demo-VisuDSA-blue?logo=render&style=flat-square)](https://visudsa.onrender.com)
+**Tech Stack:** Python, Flask, SQLAlchemy, JavaScript, D3.js, Bootstrap  
+- VisuDSA is an interactive web platform to learn data structures through code, visualizations, and quizzes.
+- **Key Features and Functionality:**
+  - Step-by-step SVG-based visualizations for classic data structures and algorithms
+  - Live Python code editor and secure code execution
+  - Theory, quizzes, and persistent progress tracking
+  - AI-powered chatbot for instant help
+  - Admin dashboard for user and content management
+
 ### 🌟 [Simple_DS_Web](https://github.com/Aayush-Yadav-34/Simple_DS-Web)
 **Tech Stack:** Python, Flask, HTML, CSS, JavaScript  
 - An interactive web application to visualize and interact with classic data structures and algorithms.
@@ -92,13 +102,6 @@ I'm a passionate developer specializing in web development and data science. I l
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
----
-
-## 🌟 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
