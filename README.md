@@ -8,7 +8,7 @@
 
 I'm a passionate developer specializing in web development and data science. I love building responsive web applications and extracting meaningful insights from data through analytics and machine learning. My goal is to bridge the gap between data-driven decision making and user-friendly web experiences.
 
-- 🌱 Learning: **Advanced React patterns, Cloud technologies (AWS/Azure), and DevOps practices, DSA, Data Science, AI/ML**
+- 🌱 Learning: **Advanced React patterns, Cloud technologies (AWS/Azure), DevOps practices, DSA, Data Science, and AI/ML**
 - 💬 Ask me about: **JavaScript, Python, Node.js, React, MongoDB, SQL and web development best practices**
 - 📫 Reach me: **aayushyadav9820@gmail.com**
 - ⚡ Fun fact: **I love solving algorithmic challenges and turning complex problems into clean, visual solutions**
