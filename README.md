@@ -1,142 +1,141 @@
-# Hi there, I'm Aayush Yadav 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DSA+Enthusiast;Data+Science+Passionate;Building+Interactive+Solutions" alt="Typing SVG" />
-</div>
 
-## 🚀 About Me
+```
+ █████╗  █████╗ ██╗   ██╗██╗   ██╗███████╗██╗  ██╗
+██╔══██╗██╔══██╗╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║
+███████║███████║ ╚████╔╝ ██║   ██║███████╗███████║
+██╔══██║██╔══██║  ╚██╔╝  ██║   ██║╚════██║██╔══██║
+██║  ██║██║  ██║   ██║   ╚██████╔╝███████║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
+```
 
-I'm a passionate developer specializing in **web development**, **data structures & algorithms**, and **data science**. I love building interactive, scalable web applications and creating tools that make complex concepts easy to understand. My goal is to bridge the gap between education and practical implementation through interactive platforms.
+### Hi, I'm **Aayush Yadav** — Full Stack Developer & DSA Enthusiast
 
-- 🌱 Learning: **Advanced React patterns, Cloud technologies (AWS/Azure), DevOps practices, DSA visualization, Data Science, and AI/ML**
-- 💬 Ask me about: **JavaScript, Python, Node.js, React, Flask, MongoDB, SQL, Data Structures, and web development best practices**
-- 📫 Reach me: **aayushyadav9820@gmail.com**
-- ⚡ Fun fact: **I love solving algorithmic challenges and turning complex problems into clean, interactive visual solutions**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### Data Science & Visualization
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![D3.js](https://img.shields.io/badge/-D3.js-F9A825?style=flat-square&logo=d3.js&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aayush-Yadav-34&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Yadav-34&layout=compact&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush-Yadav-34&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aayush-Yadav-34&theme=tokyonight&row=1&column=6" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🔥 Featured Projects
-
-### ⭐ [VisuDSA](https://github.com/Aayush-Yadav-34/VisuDSA) - Interactive DSA Learning Platform
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-VisuDSA-blue?logo=render&style=flat-square)](https://visudsa.onrender.com)
-
-**Tech Stack:** Python, Flask, SQLAlchemy, JavaScript, D3.js, Bootstrap, SQLite
-
-VisuDSA is a comprehensive, interactive web platform designed to revolutionize how students learn Data Structures and Algorithms through visualization, hands-on coding, and adaptive learning.
-
-**🎯 Key Features:**
-- 📊 **Step-by-step SVG-based visualizations** for classic data structures (Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Hash Tables)
-- 💻 **Live Python code editor** with secure code execution environment
-- 📚 **Theory + Quizzes + Visualization** integrated learning approach
-- 🤖 **AI-powered chatbot** for instant help and doubt resolution
-- 📈 **Persistent progress tracking** and learning analytics
-- 👨‍💼 **Admin dashboard** for content and user management
-
-**Impact:** Helping thousands of students master DSA concepts through interactive learning!
-
----
-
-### ⭐ [DataQuest](https://github.com/Aayush-Yadav-34/DataQuest) - Data Science Learning Hub
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-DataQuest-brightgreen?logo=vercel&style=flat-square)](https://dataquest-demo.vercel.app)
-
-**Tech Stack:** React, JavaScript, Node.js, Express, MongoDB, Tailwind CSS
-
-DataQuest is an interactive platform for learning Data Science concepts, from basics to advanced machine learning, with real-world datasets and hands-on projects.
-
-**🎯 Key Features:**
-- 🗂️ **Structured curriculum** covering Statistics, Data Analysis, ML, and Deep Learning
-- 🧪 **Interactive datasets** with real-world data challenges
-- 💡 **Project-based learning** with guided walkthroughs
-- 📊 **Data visualization playground** for exploring patterns
-- 🎓 **Certification** upon course completion
-- 🏆 **Leaderboards** to track progress and compete with peers
-
-**Impact:** Empowering learners to transition from theory to practical data science applications!
-
----
-
-## 🔗 Connect with Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-yadav-2a92592a7/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushyadav9820@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aayush-Yadav-34)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+interactive+learning+platforms;DSA+%2B+Data+Science+%2B+Web+Dev;Turning+algorithms+into+visuals)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
+## `whoami`
+
+```yaml
+name: Aayush Yadav
+role: Full Stack Developer
+focus: [Web Apps, DSA Visualization, Data Science]
+currently_learning: [AWS, DevOps, Advanced React, AI/ML]
+contact: aayushyadav9820@gmail.com
+fun_fact: I turn complex algorithms into clean, interactive visuals
+```
+
+---
+
+## `tech_stack --list`
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=336791)
+
+**Data & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=013243)
+![D3.js](https://img.shields.io/badge/D3.js-0D1117?style=flat-square&logo=d3.js&logoColor=F9A825)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=python&logoColor=11557C)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+
+---
+
+## `projects --featured`
+
+### ◈ VisuDSA — Interactive DSA Learning Platform
+
+> *Revolutionizing how students learn Data Structures & Algorithms*
+
+[![Live](https://img.shields.io/badge/→_Live_Demo-visudsa.onrender.com-58A6FF?style=flat-square)](https://visudsa.onrender.com)
+[![Repo](https://img.shields.io/badge/→_Source_Code-GitHub-30363D?style=flat-square&logo=github)](https://github.com/Aayush-Yadav-34/VisuDSA)
+
+```
+Stack: Python · Flask · SQLAlchemy · JavaScript · D3.js · SQLite
+```
+
+- Step-by-step **SVG visualizations** for Arrays, Trees, Graphs, Hash Tables & more
+- **Live Python code editor** with secure execution sandbox
+- **AI-powered chatbot** for instant doubt resolution
+- Integrated **Theory → Quiz → Visualize** learning flow
+- Admin dashboard with user analytics & content management
+
+---
+
+### ◈ DataQuest — Data Science Learning Hub
+
+> *From theory to practical data science — all in one platform*
+
+[![Live](https://img.shields.io/badge/→_Live_Demo-dataquest--demo.vercel.app-58A6FF?style=flat-square)](https://dataquest-demo.vercel.app)
+
+```
+Stack: React · TypeScript · Node.js · Express · MongoDB · Tailwind CSS
+```
+
+- Structured curriculum: **Statistics → ML → Deep Learning**
+- Real-world **interactive datasets** and data challenges
+- **Visualization playground** for exploring patterns
+- Competitive **leaderboards** + certification on completion
+
+---
+
+## `git log --trophies`
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aayush-Yadav-34&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aayush-Yadav-34&theme=gitdimmed&no-frame=true&row=1&column=6&margin-w=8"/>
+
+</div>
+
+---
+
+## `connect --socials`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/aayush-yadav-2a92592a7/)
+[![Gmail](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:aayushyadav9820@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aayush-Yadav-34)
+
 </div>
 
 ---
 
 <div align="center">
-  <i>✨ "Code is like humor. When you have to explain it, it's bad." - Cory House ✨</i>
-</div>
 
----
+<img src="https://komarev.com/ghpvc/?username=Aayush-Yadav-34&color=58A6FF&style=flat-square&label=profile+views"/>
 
-<div align="center">
-  <b>Thanks for visiting my profile! Don't forget to ⭐️ some repositories if you find them interesting!</b>
+*"Code is like humor. When you have to explain it, it's bad." — Cory House*
+
+**If something sparks your interest, a ⭐ goes a long way!**
+
 </div>
