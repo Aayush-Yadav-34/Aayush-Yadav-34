@@ -30,6 +30,14 @@ fun_fact: I turn complex algorithms into clean, interactive visuals
 
 ---
 
+## `topics --pinned`
+
+🌱 **Learning** — Advanced React patterns · AWS/Azure · DevOps · DSA Visualization · Data Science · AI/ML
+
+💬 **Ask me about** — JavaScript · Python · Node.js · React · Flask · MongoDB · SQL · Data Structures · Web Dev best practices
+
+---
+
 ## `tech_stack --list`
 
 **Languages**
@@ -96,6 +104,7 @@ Stack: Python · Flask · SQLAlchemy · JavaScript · D3.js · SQLite
 > *From theory to practical data science — all in one platform*
 
 [![Live](https://img.shields.io/badge/→_Live_Demo-dataquest--demo.vercel.app-58A6FF?style=flat-square)](https://dataquest-demo.vercel.app)
+[![Repo](https://img.shields.io/badge/→_Source_Code-GitHub-30363D?style=flat-square&logo=github)](https://github.com/Aayush-Yadav-34/DataQuest)
 
 ```
 Stack: React · TypeScript · Node.js · Express · MongoDB · Tailwind CSS
@@ -105,6 +114,32 @@ Stack: React · TypeScript · Node.js · Express · MongoDB · Tailwind CSS
 - Real-world **interactive datasets** and data challenges
 - **Visualization playground** for exploring patterns
 - Competitive **leaderboards** + certification on completion
+
+---
+
+## `stats --github`
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Aayush-Yadav-34&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Yadav-34&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush-Yadav-34&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
+</div>
+
+---
+
+## `stats --github`
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Aayush-Yadav-34&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Yadav-34&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush-Yadav-34&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
+</div>
 
 ---
 
