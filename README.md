@@ -112,35 +112,6 @@ DataQuest is an interactive platform for learning Data Science concepts, from ba
 
 ---
 
-### 🌟 [Simple_DS_Web](https://github.com/Aayush-Yadav-34/Simple_DS-Web)
-
-**Tech Stack:** Python, Flask, HTML, CSS, JavaScript
-
-An interactive web application to visualize and interact with classic data structures and algorithms.
-
-**Key Features:**
-- Visualize data structures: Stack, Queue, Linked List, Doubly Linked List, Priority Queue, Binary Tree, Graph (DFS/BFS), Hash Tables, and TSP
-- Real-time feedback and flash messages for user actions
-- Graphical representations using Graphviz and Matplotlib
-- Clean, responsive UI for educational and demonstration purposes
-
----
-
-### 🌟 [Webnovel Showcase](https://github.com/Aayush-Yadav-34/Simple-Webnovel-Website)
-
-**Tech Stack:** HTML, CSS, JavaScript
-
-Webnovel Showcase is a web application that lets users explore, search, and discover popular web novels by genre or ranking, all in a clean and responsive interface.
-
-**Key features:**
-- Browse featured and top-ranked novels with cover images
-- Search bar for quick novel discovery
-- Genre-based navigation (Action, Fantasy, Reincarnation, Mystery, Romance)
-- Theme switcher (light/dark mode)
-- Contact section for creator information
-
----
-
 ## 🔗 Connect with Me
 
 <div align="center">
