@@ -130,19 +130,6 @@ Stack: React · TypeScript · Node.js · Express · MongoDB · Tailwind CSS
 
 ---
 
-## `stats --github`
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Aayush-Yadav-34&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Yadav-34&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush-Yadav-34&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-
-</div>
-
----
-
 ## `git log --trophies`
 
 <div align="center">
