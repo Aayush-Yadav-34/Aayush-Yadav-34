@@ -130,16 +130,6 @@ Stack: React · TypeScript · Node.js · Express · MongoDB · Tailwind CSS
 
 ---
 
-## `git log --trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aayush-Yadav-34&theme=gitdimmed&no-frame=true&row=1&column=6&margin-w=8"/>
-
-</div>
-
----
-
 ## `connect --socials`
 
 <div align="center">
